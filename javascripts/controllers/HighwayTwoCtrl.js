@@ -1,0 +1,4 @@
+app.controller("HighwayTwoCtrl", function($scope){
+	$scope.highwayName = "Kancamagus";
+	$scope.highwayDescription = 'New Hampshire Route 112 (abbreviated NH 112)... is a 56.39-mile-long (90.75 km) east–west state highway in northern New Hampshire. The highway winds across the state, connecting Bath to Conway through the heart of the scenic and mountainous White Mountain National Forest.The eastern portion of NH 112 is known as the Kancamagus Highway, running 32 miles (51 km) through the White Mountains from Lincoln to Conway.[2] 26.5 miles (42.6 km) of the highway have been designated a National Scenic Byway by the United States Department of Transportation under the name "Kancamagus Scenic Byway". The highway is known for its views of autumn foliage and is a popular drive in September and October for leaf peeping tourism.';
+});
